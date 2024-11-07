@@ -1,42 +1,44 @@
-# OSPO-Now - DSWB Repo
-
-*Add Badges/GitHub shields, which are clickable buttons that provide concise actions related to the project.*
+# OSPO Now repository to share DSWB-related updates
 
 *Here we will share project-related outputs.*  
 
 ## About
 
-Organisation with Open Source Experts on Demand. We are collaborators in DSWB.
+OSPO Now's mission is to empower organizations to thrive through the strategic use of open-source solutions, fostering sustainability, and maximizing impact. OSPO Now are committed to providing tailored strategies and solutions that elevate the adoption of open-source best practices.
 
-Navigating open source can be tricky, but it doesn't need to be. OSPO Now is your virtual open source program office. Whatever problems you're facing with open source, we have the expertise to help you tackle them. We want you to trust us with your solutions, so read more about our team to learn about why we are the right company for you.
+### Role in DSWB
 
+OSPO Now is a technical partner in DSWB.
+Through training, working groups, hands-on development, and direct consulting, OSPO Now is providing expert support about the co-creation, adoption and deployment of open-source solutions and the wider use and promotion of open science. 
 
-## Roadmap & Milestones
+OSPO Now is covening communities of practice for data science initiatives partnering in DSWB, contributing to developing standard operating procedures and collaborative practices using resources from Open Science including The Turing Way.
+One of the goals is to support the use and expansion of The Turing Way’s resources, infrastructure, and community with the involvements from members from Pathfinder countries.
 
-- **Goals:** Clear overview of overarching and short-term goals.
-- **Outcomes:** Description of expected results and deliverables.
+### Open Science and Capacity Building Working Group
+
+OSPO Now members are organising and supporting the Open Science and Capacity Building Working Group, information for which is shared on a separate [GitHub repository](https://github.com/aphrc-dswb/dswb-open-science-capacity-wg).
 
 ## The Team
 
-- **Members:** Malvika Sharan, Precious, Raphael
-- **Roles & Responsibilities:** [Team Directory](link-to-directory) outlines roles, responsibilities and their ways of working.
+- **Members:**
+  - Raphael Sonabend: Partnership Lead
+  - Malvika Sharan: Strategic Lead
+  - Precious Onyowuchi: Open Source Community Manager
 
 ## Contributing
 
-- **Guidelines:** [Contribution Guidelines](link-to-guidelines) for contributors.
+- **Guidelines:** [Contribution Guidelines](./CONTRIBUTING.md) for contributors.
 - **Code of Conduct:** [Code of Conduct](link-to-coc) ensures a respectful project environment.
 - **Resource Plans:** Details on available resources and recommended practices for the project team.
 
 ## Licensing
 
-Clearly define the license under which the repository's work is shared.
-(Example: This project is licensed under the MIT License - see the LICENSE.md file for details.)
+Resources in this repository is shared under the CC-BY 4.0 License - see the [LICENSE.md file](./LICENSE.md) for details.
 
-## Citing & Acknowledgement
+## Maintenance
 
-- **Citation Instructions:** How to cite the project.
-- **Acknowledgment:** Recognising contributions by different members.
+This repo will be maintained regularly (if not daily) by the team members.
 
 ## Contact
 
-- **Reach Out:** malvika@we-are-ols.org
+Reach out to the OSPO Now team by emailing [hello@osponow.com](mailto:hello@osponow.com).
