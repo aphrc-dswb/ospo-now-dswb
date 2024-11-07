@@ -28,7 +28,7 @@ OSPO Now members are organising and supporting the Open Science and Capacity Bui
 ## Contributing
 
 - **Guidelines:** [Contribution Guidelines](./CONTRIBUTING.md) for contributors.
-- **Code of Conduct:** [Code of Conduct](link-to-coc) ensures a respectful project environment.
+- **Code of Conduct:** [Code of Conduct](./CODE_OF_CONDUCT.md) ensures a respectful project environment.
 - **Resource Plans:** Details on available resources and recommended practices for the project team.
 
 ## Licensing
