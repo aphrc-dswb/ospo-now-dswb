@@ -50,7 +50,7 @@ Please open a GitHub issue to suggest a new topic, contribute code, or let us kn
 📫 Contact
 ---
 
-For any organisation related queries or concerns, you can directly reach out to **Malvika Sharan by emailing [msharan@turing.ac.uk](mailto:msharan@turing.ac.uk)**.
+For any organisation related queries or concerns, you can directly reach out to **Precious Onyawuchi by emailing [msharan@turing.ac.uk](mailto:malvika@we-are-ols.org)**.
 
 ♻️ License
 ---
