@@ -23,7 +23,7 @@ OSPO Now members are organising and supporting the Open Science and Capacity Bui
 - **Members:**
   - Raphael Sonabend: Partnership Lead
   - Malvika Sharan: Strategic Lead
-  - Precious Onyowuchi: Open Source Community Manager
+  - Precious Onyewuchi: Open Source Community Manager
 
 ## Contributing
 
